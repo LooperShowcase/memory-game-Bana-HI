@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/spiderman.png",
+        "name": "spiderman"
+    },
+    {
+        "image": "assets/ironman.png",
+        "name": "ironman"
+    },
+    {
+        "image": "assets/superman.png",
+        "name": "superman"
+    },
+    {
+        "image": "assets/supergirl.png",
+        "name": "supergirl"
+    },
+    {
+        "image": "assets/Thor.png",
+        "name": "Thor"
+    },
+    {
+        "image": "assets/bruce.png",
+        "name": "bruce"
+    },
+    {
+        "image": "assets/captainamerica.png",
+        "name": "captainamerica"
+    },
+    {
+        "image": "assets/batman.png",
+        "name": "batman"
+    },
+    {
+        "image": "assets/wonderwoman.png",
+        "name": "wonderwoman"
+    }
+]
